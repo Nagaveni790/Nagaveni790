@@ -1,16 +1,14 @@
-### Hi there 👋
+                                                    ### Hi👋, I'm Nagaveni
 
-<!--
-**Nagaveni790/Nagaveni790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                            A Passionate Data Science Practitioner
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Deep Learning
+  
+- 📫 How to reach me: nagaveniyeleri790@gmail.com
+  
+- 👨‍💻 Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences check out my [Nagaveni_CV.pdf](https://github.com/Nagaveni790/Nagaveni790/files/12323663/Nagaveni_CV.pdf)
+
+**Connect with me:**
+Linkedin : https://www.linkedin.com/in/nagaveniyeleri
