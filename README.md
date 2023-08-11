@@ -1,7 +1,7 @@
-                                                    ### Hi👋, I'm Nagaveni
+                                                    **Hi👋, I'm Nagaveni
 
                                             A Passionate Data Science Practitioner
-
+**
 - 🌱 I’m currently learning Deep Learning
   
 - 📫 How to reach me: nagaveniyeleri790@gmail.com
